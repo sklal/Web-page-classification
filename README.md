@@ -10,9 +10,9 @@ The understanding attainable through mining this voluntarily contributed web con
 However, if we can build an accurate classifier to pinpoint the right web pages that precisely contains patients' experiences using the URLs and page content, it can save a lot of time and compute for collecting this information.
 
 # Problem Statement
-In this project, we are provided with URLs from 53000+ web pages. The objective is to build a classifier that can classify the web pages into their respective classes and Each web page can belong to only 1 class.
+In this project, we are provided with URLs from 53000+ web pages. The objective is to build a classifier that can classify the web pages into their respective classes and each web page can belong to only 1 class.
 
-Basically given the complete url, predict the tag a web page belongs to out of 9 predefined tags as given below:
+Basically given the complete URL, predict the tag a web page belongs to out of 9 predefined tags as given below:
 
 People profile
 Conferences/Congress
